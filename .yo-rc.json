@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "intelifis",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "intelifis",
+    "packageName": "intelifis",
+    "packageFolder": "intelifis",
+    "serverPort": "8088",
+    "authenticationType": "jwt",
+    "cacheProvider": "caffeine",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mssql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "YzMyNTllNmI0YWZjMTczZjU2Y2I3YzZlNzI0ODMxZTQ4YWRiMDBmYzEwMzU0NDgwZjMzNmY2YjAyYWNhNDkzMjYxYWJmYTg2NWVkY2E3OWU0Yzg5NTI1ZTFlNmM0YzJjMjA2NjJhMGU0ZmE5ZmNjZWI0NGI0MTQ0ZDVlYzI0NjE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1634075808130,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "pt-br",
+    "languages": ["pt-br", "pt-pt"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
